@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7IlWyZ1RF0Y/8yy3BoIQV5WS+cj53U4L/k2XZ+C9P9OtgWFS5RB/3niX/mcyYaqhVcBL5SfIbyOEy+wh6cY3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alhas\\source\\repos\\RedditLab\\RedditLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alhas\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
